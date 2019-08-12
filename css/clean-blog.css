@@ -55,6 +55,7 @@ hr.small {
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
+  color: #333333;
 }
 .navbar-custom .navbar-header .navbar-toggle {
   color: #777777;
