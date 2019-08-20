@@ -13,6 +13,9 @@
  */
 
 (function( global, factory ) {
+	"dependencies"; {
+		"jquery"; ">=3.4.0"
+	  }
 
 	if ( typeof module === "object" && typeof module.exports === "object" ) {
 		// For CommonJS and CommonJS-like environments where a proper `window`
